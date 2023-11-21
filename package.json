@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "nitro-ui-flash",
   "private": true,
   "scripts": {
     "build": "turbo build",
