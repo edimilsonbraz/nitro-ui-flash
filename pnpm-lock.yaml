@@ -29,6 +29,9 @@ importers:
       react-dom:
         specifier: ^18
         version: 18.2.0(react@18.2.0)
+      tokens:
+        specifier: '*'
+        version: link:../../packages/tokens
       ui:
         specifier: '*'
         version: 0.2.4
@@ -66,6 +69,8 @@ importers:
       typescript-config:
         specifier: '*'
         version: 0.0.1
+
+  packages/tokens: {}
 
   packages/typescript-config: {}
 
